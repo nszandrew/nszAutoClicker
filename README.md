@@ -25,7 +25,7 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE]([LICENSE](https://github.com/nszandrew/nszAutoClicker/blob/master/LICENSE)) file for details.
 
 ## Acknowledgments
 
@@ -59,7 +59,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença Apache License 2.0 - veja o arquivo [LICENSE]([LICENSE](https://github.com/nszandrew/nszAutoClicker/blob/master/LICENSE)) para mais detalhes.
 
 ## Agradecimentos
 
