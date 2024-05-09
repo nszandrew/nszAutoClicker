@@ -1,10 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="nszAutoClicker:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/nszAutoClicker_jar</output-path>
+  <artifact type="jar" name="JavaProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaProject_jar</output-path>
     <root id="archive" name="JavaProject.jar">
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      </element>
       <element id="module-output" name="JavaProject" />
       <element id="extracted-dir" path="$USER_HOME$/Downloads/jnativehook-2.2.2.jar" path-in-jar="/" />
     </root>

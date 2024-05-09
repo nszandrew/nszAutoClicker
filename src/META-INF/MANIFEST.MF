@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: resources.TecladoListener
+Main-Class: 
+Class-Path: jnativehook-2.2.2.jar
 
